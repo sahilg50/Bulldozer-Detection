@@ -1,0 +1,3 @@
+Donwload the blubook for bulldozer detection from the kaggle and here's the link:
+
+https://www.kaggle.com/c/bluebook-for-bulldozers/overview
